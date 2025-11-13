@@ -1,0 +1,10 @@
+Tools Used in Student Marks Analysis Project:
+
+1. pandas – For data loading, manipulation, and analysis.
+2. matplotlib.pyplot – For data visualization (bar chart, histogram, pie chart).
+3. Python built-in functions – For logic, conditions, and calculations.
+4. CSV file handling – For input (students_marks.csv) and output (students_report.csv).
+
+Description:
+This project reads student marks from a CSV file, calculates totals, percentages, and grades,
+and then visualizes the data using different charts.
